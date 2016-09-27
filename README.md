@@ -32,5 +32,5 @@ This is where you should put what students should be bringing to your classes:
 ## Outline
 
 Time         | Lesson                               | Badges Earned
----          | ---                                  |
+---          | ---                                  | ---
 (in minutes) | (place the title of the lesson here) | (badge earned through lesson)
