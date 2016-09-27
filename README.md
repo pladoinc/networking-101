@@ -17,8 +17,8 @@ By the end of this course, students will have earned:
 
  - Put the list of badges here, followed by the description of the badge.
  - For example:
-  - [HTML5 Syntax](): understanding of the syntax used by HTML5.
-  - [HTML5 Tags](): understanding of the most common HTML5 tags. 
+  - [![](https://img.shields.io/badge/skill-HTML5%20Syntax-blue.svg?style=flat)](): understanding of the syntax used by HTML5.
+  - [![](https://img.shields.io/badge/skill-HTML5%20Tags-blue.svg?style=flat)](): understanding of the most common HTML5 tags.
 
 ## Materials
 
