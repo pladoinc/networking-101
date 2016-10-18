@@ -1,39 +1,36 @@
-# [![PLADO](http://plado.ca/s/logo-tiny.png)](http://plado.ca/) Course Title [![CC BY-NC](https://licensebuttons.net/l/by-nc/4.0/80x15.png)]("CC BY-NC 4.0" http://creativecommons.org/licenses/by-nc/4.0/)
+# [![PLADO](http://plado.ca/s/logo-tiny.png)](http://plado.ca/) Networking 101 [![CC BY-NC](https://licensebuttons.net/l/by-nc/4.0/80x15.png)]("CC BY-NC 4.0" http://creativecommons.org/licenses/by-nc/4.0/)
 
-This is where you should write a brief description of your course. This is the first thing
-that students will read about your course, so make it creative and attractive.
+An introduction to the fundamental concepts of networking. A walk
+through IP addresses, ports, and the general concepts of network-based
+communication.
 
 Item                    | Requirement
 ---                     | ---
-Instructional time      | (in hours, can be fractional)
-Homework time           | (in hours, can be fractional)
-Materials               | (be as explicit as possible, make few assumptions)
-Pre-requisites          | (list the badges that the student should already have)
-Earned badges           | (list the badges that would be earned through this course)
+Instructional time      | 2.0 hours
+Homework time           | 0.5 hours
+Materials               | *Pen & paper*
+Prerequisites           | None.
+Earned badges           | [![skill: IP Addresses](https://img.shields.io/badge/skill-IP%20Addresses-blue.svg?style=flat)]() [![skill: Port Numbers](https://img.shields.io/badge/skill-Ports%20Numbers-blue.svg?style=flat)]() [![skill: DNS](https://img.shields.io/badge/skill-DNS-blue.svg?style=flat)]()
 
 ## Earned Badges
 
 By the end of this course, students will have earned:
 
- - Put the list of badges here, followed by the description of the badge.
- - For example:
-  - [![](https://img.shields.io/badge/skill-HTML5%20Syntax-blue.svg?style=flat)](): understanding of the syntax used by HTML5.
-  - [![](https://img.shields.io/badge/skill-HTML5%20Tags-blue.svg?style=flat)](): understanding of the most common HTML5 tags.
+ - [![skill: IP Addresses](https://img.shields.io/badge/skill-IP%20Addresses-blue.svg?style=flat)](): understanding of IP addresses.
+ - [![skill: Port Numbers](https://img.shields.io/badge/skill-Ports%20Numbers-blue.svg?style=flat)](): understanding of port numbers.
+ - [![skill: DNS](https://img.shields.io/badge/skill-DNS-blue.svg?style=flat)](): understanding of the Domain Name System.
 
 ## Materials
 
-This is where you should put what students should be bringing to your classes:
-
- - For example:
-  - Paper & pens.
-  - Laptop running either Windows (>=7), OS X, Linux.
-  - VSCode installed on your laptop.
+ - *Pen & paper (optional):* useful for writing notes and making diagrams.
 
 ## Outline
 
-Time         | Lesson                               | Badges Earned
----          | ---                                  | ---
-(in minutes) | (place the title of the lesson here) | (badge earned through lesson)
+Time    | Lesson                                                                  | Badges Earned
+---     | ---                                                                     | ---
+30 mins | [How Computers See Each Other](lessons/how-computers-see-each-other.md) | [![](https://img.shields.io/badge/skill-IP%20Address-blue.svg?style=flat)]()
+30 mins | [Voyages & Port Numbers](lessons/voyages-port-numbers.md)               | [![](https://img.shields.io/badge/skill-Ports%20Numbers-blue.svg?style=flat)]()
+60 mins | [Getting Better at Nicknames](lessons/getting-better-at-nicknames.md)   | [![](https://img.shields.io/badge/skill-DNS-blue.svg?style=flat)]()
 
 ## License
 
