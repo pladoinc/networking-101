@@ -1,4 +1,4 @@
-# Course Title
+# Course Title ![CC BY-NC](https://licensebuttons.net/l/by-nc/4.0/80x15.png)
 
 This is where you should write a brief description of your course. This is the first thing
 that students will read about your course, so make it creative and attractive.
@@ -34,3 +34,9 @@ This is where you should put what students should be bringing to your classes:
 Time         | Lesson                               | Badges Earned
 ---          | ---                                  | ---
 (in minutes) | (place the title of the lesson here) | (badge earned through lesson)
+
+## License
+
+All work part of this repository and its by-products (including forks) must
+be licensed under the [Creative Commons BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)
+license.
