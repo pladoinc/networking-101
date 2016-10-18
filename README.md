@@ -1,4 +1,4 @@
-# ![PLADO](http://plado.ca/s/logo-tiny.png) Course Title ![CC BY-NC](https://licensebuttons.net/l/by-nc/4.0/80x15.png)
+# [![PLADO](http://plado.ca/s/logo-tiny.png)](http://plado.ca/) Course Title [![CC BY-NC](https://licensebuttons.net/l/by-nc/4.0/80x15.png)]("CC BY-NC 4.0" http://creativecommons.org/licenses/by-nc/4.0/)
 
 This is where you should write a brief description of your course. This is the first thing
 that students will read about your course, so make it creative and attractive.
